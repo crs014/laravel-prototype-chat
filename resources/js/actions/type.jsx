@@ -1,0 +1,5 @@
+export const READ_CHAT_USER = 'READ_CHAT_USER';
+export const SENDING_MESSAGE = 'SENDING_MESSAGE'; 
+export const UPDATE_MESSAGE = 'UPDATE_MESSAGE'; 
+
+export const USER_LIST = 'USER_LIST'; 
